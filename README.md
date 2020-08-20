@@ -13,7 +13,7 @@
 <!-- <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord: sparksbet" height="40" width="40" /></a> &nbsp;&nbsp;-->
 <a href="https://open.spotify.com/user/21krnfigajmoh4z67biedhaii?si=zvCxIZo5RMOtpgbvC32onw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="Spotify: Bethany E. Toma" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.goodreads.com/sparksbet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg" alt="Goodreads: sparksbet" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/bethany-toma-8403851b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn: Bethany Toma" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="www.linkedin.com/in/betoma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn: Bethany Toma" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.xing.com/profile/BethanyElise_Toma/cv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg" alt="Xing: BethanyElise_Toma" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
