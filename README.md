@@ -41,7 +41,6 @@ I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus 
 <img src="https://github.com/explosion/spaCy/blob/master/website/src/images/logo.svg" alt="spacy" width="80" height="40"/>&nbsp;&nbsp;
 <!--<code>--><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r.svg" alt="r" width="40" height="40"/><!--</code>-->&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="80"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/XeTeX_Logo.svg" alt="xetex" width="80"/>&nbsp;&nbsp;
 </p>
 
 <!--START_SECTION:waka-->
