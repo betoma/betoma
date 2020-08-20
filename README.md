@@ -16,9 +16,12 @@
 <a href="https://www.linkedin.com/in/bethany-toma-8403851b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn: Bethany Toma" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.xing.com/profile/BethanyElise_Toma/cv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg" alt="Xing: BethanyElise_Toma" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
-<p>
+
 I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus on the NLP side of things. My work in undergrad was mostly focused on formal semantics and pragmatics, so within NLP I'm passionate about linguistically-motivated approaches, particularly toward semantic parsing and related tasks. I'm a fairly experienced python programmer (including familiarity with numpy, pandas, nltk, spacy, pytorch, etc.) and am currently looking for a company to partner with for my master's thesis, which I plan to begin this November.
-</p>
+
+<a href="https://natemoo-re-sable.vercel.app/now-playing?open">
+    <img align='right' src="https://natemoo-re-sable.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 
 😄 Pronouns: she/her    
 👯 I’m looking to collaborate with: a company doing NLP research for my master's thesis!    
