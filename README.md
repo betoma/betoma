@@ -47,20 +47,8 @@ I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus 
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20Lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 121 Contributions in the Year 2020
- > 
-> 📦 13.6 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 13 Public Repositories
- > 
-> 🔑 0 Private Repository 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -84,10 +72,10 @@ Sunday       41 commits     █████░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Berlin
+⌚︎ Time zone: Europe/Berlin
 
 💬 Programming Languages: 
 Python                   31 mins             ██████████████████░░░░░░░   74.97% 
