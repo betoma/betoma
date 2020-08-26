@@ -26,7 +26,7 @@ I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus 
 😄 Pronouns: she/her    
 👯 I’m looking to collaborate with: a company doing NLP research for my master's thesis!    
 💬 Ask me about right dislocation, Gricean maxims, or game-theoretic pragmatics    
-📫 How to reach me: email me at btoma (at) uni-potsdam (dot) de, or message me on one of my above social media
+📫 How to reach me: email me or message me on one of my above social media
 
 #### 🔭 I’m currently working on: 
   - An extension of [kelvinguu's lang2program](https://github.com/kelvinguu/lang2program) that adds a directly-supervised pretraining step
