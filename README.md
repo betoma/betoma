@@ -29,7 +29,6 @@ I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus 
 📫 How to reach me: email me or message me on one of my above social media
 
 #### 🔭 I’m currently working on: 
-  - An extension of [kelvinguu's lang2program](https://github.com/kelvinguu/lang2program) that adds a directly-supervised pretraining step
   - A fuzzy-logic-based implementation of quantifiers in a words-as-classifiers model for eventual use for visual question answering
   - A discord bot for a server I moderate
   - Various [conlanging](https://conlang.org/) projects
