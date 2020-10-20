@@ -24,7 +24,6 @@ I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus 
 </a>
 
 😄 Pronouns: she/her    
-👯 I’m looking to collaborate with: a company doing NLP research for my master's thesis!    
 💬 Ask me about right dislocation, Gricean maxims, or game-theoretic pragmatics    
 📫 How to reach me: email me or message me on one of my above social media
 
