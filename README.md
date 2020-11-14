@@ -1,6 +1,8 @@
 <h2> Hi, I'm Bethany E. Toma! <img src="https://media.giphy.com/media/NMGc9JGgT89b2/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/jt8mEC6Kffbwbv2tNH/giphy.gif" width="230">
-<p><em>M.Sc Student in <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems</a> at the <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a></br>
+<p><em>
+  Data Science Engineer at <a href="https://thetalake.com/">Theta Lake</a></br>
+  M.Sc Student in <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems</a> at the <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a></br>
   BA in <a href="https://linguistics.osu.edu/">Linguistics</a> & <a href="https://deall.osu.edu/">Chinese</a> from <a href="https://www.osu.edu/">The Ohio State University</a>
 </em></p>
 <p align="left">
@@ -80,8 +82,7 @@ TeX                      2 hrs 26 mins       ███████████�
 Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65%
 
 🐱‍💻 Projects: 
-words-as-classifiers     2 hrs 30 mins       ███████████████████░░░░░░   78.41% 
-code                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   21.59%
+words-as-classifiers     2 hrs 30 mins       █████████████████████████   100.00% 
 
 ```
 
