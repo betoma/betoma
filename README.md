@@ -1,7 +1,7 @@
 <h2> Hi, I'm Bethany E. Toma! <img src="https://media.giphy.com/media/NMGc9JGgT89b2/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/jt8mEC6Kffbwbv2tNH/giphy.gif" width="230">
 <p><em>
-  Data Science Engineer at <a href="https://thetalake.com/"><img src="https://ci4.googleusercontent.com/proxy/bBm_2K6OWkNPAw_Hg59LyovBr9W5KkKJAN7xqybplHEjmzJpaelyANCUv5j4GIdEF4MijvBegtyHEQ65W6ig19l8xQkzPAo3QS9OOA7PsVQDuE6avnKms79rFEm5HMVioIKjAhdbUCxgxnw3NHor64e4XA=s0-d-e1-ft#https://drive.google.com/a/thetalake.com/uc?id=1NdGLnpvXrvsQEM5RtpYZTwMcTqgfh_u4" alt="Theta Lake" height=25/></a></br>
+  Data Science Engineer at <a href="https://thetalake.com/"><img src="https://thetalake.com/wp-content/uploads/2018/07/thetalake-logo.svg" alt="Theta Lake" height=18 /></a></br>
   M.Sc Student in <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems</a> at the <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a></br>
   BA in <a href="https://linguistics.osu.edu/">Linguistics</a> & <a href="https://deall.osu.edu/">Chinese</a> from <a href="https://www.osu.edu/">The Ohio State University</a>
 </em></p>
