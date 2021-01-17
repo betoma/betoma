@@ -47,8 +47,8 @@ I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus 
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betoma&exclude_repo=betoma&layout=compact&langs_count=6" height="175"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betoma&exclude_repo=betoma&layout=compact&langs_count=6" height="170"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=betoma" height="175"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=betoma" height="170"/>
 </a>
