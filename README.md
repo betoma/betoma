@@ -26,9 +26,9 @@ I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus 
     <img align='right' src="https://natemoo-re-sable.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
-😄 Pronouns: she/her
-💬 Ask me about right dislocation, Gricean maxims, or game-theoretic pragmatics
-📫 How to reach me: email me or message me on one of my above social media
+😄 Pronouns: she/her<br>
+💬 Ask me about formal semantics, right dislocation, Gricean maxims, or game-theoretic pragmatics<br>
+📫 How to reach me: email me or message me on one of my above social media<br>
 
 <!-- markdownlint-disable MD001 -->
 <!-- markdownlint-disable MD026 -->
@@ -37,7 +37,7 @@ I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus 
 - A fuzzy-logic-based implementation of quantifiers in a words-as-classifiers model for eventual use for visual question answering
 - A discord bot for a server I moderate
 - Various [conlanging](https://conlang.org/) projects
-  
+
 ### Languages & Frameworks:
 
 <p align="left">
