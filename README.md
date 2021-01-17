@@ -1,4 +1,5 @@
-<h2> Hi, I'm Bethany E. Toma! <img src="https://media.giphy.com/media/NMGc9JGgT89b2/giphy.gif" width="50"></h2>
+# Hi, I'm Bethany E. Toma! <img src="https://media.giphy.com/media/NMGc9JGgT89b2/giphy.gif" width="50">
+
 <img align='right' src="https://media.giphy.com/media/jt8mEC6Kffbwbv2tNH/giphy.gif" width="230">
 <p><em>
   Data Science Engineer at <a href="https://thetalake.com/"><img align="top" src="https://thetalake.com/wp-content/uploads/2018/07/thetalake-logo.svg" alt="Theta Lake" height=25 /></a></br>
@@ -25,19 +26,23 @@ I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus 
     <img align='right' src="https://natemoo-re-sable.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
-😄 Pronouns: she/her    
-💬 Ask me about right dislocation, Gricean maxims, or game-theoretic pragmatics    
+😄 Pronouns: she/her
+💬 Ask me about right dislocation, Gricean maxims, or game-theoretic pragmatics
 📫 How to reach me: email me or message me on one of my above social media
 
-#### 🔭 I’m currently working on: 
-  - A fuzzy-logic-based implementation of quantifiers in a words-as-classifiers model for eventual use for visual question answering
-  - A discord bot for a server I moderate
-  - Various [conlanging](https://conlang.org/) projects
+<!-- markdownlint-disable MD001 -->
+<!-- markdownlint-disable MD026 -->
+### 🔭 I’m currently working on:
+
+- A fuzzy-logic-based implementation of quantifiers in a words-as-classifiers model for eventual use for visual question answering
+- A discord bot for a server I moderate
+- Various [conlanging](https://conlang.org/) projects
   
 ### Languages & Frameworks:
+
 <p align="left">
 <!--<code>--><img src="https://raw.githubusercontent.com/betoma/betoma/master/assets/python.svg" alt="python" width="40" height="40"/><!--</code>-->&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/betoma/betoma/master/assets/jupyter.svg" alt="jupyter" width="80" height="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/betoma/betoma/master/assets/jupyter.svg" alt="jupyter" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/betoma/betoma/master/assets/numpy-logo.svg" alt="numpy" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/betoma/betoma/master/assets/pandas.svg" alt="pandas" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/betoma/betoma/master/assets/pytorch.svg" alt="pytorch" width="80" height="40"/>&nbsp;&nbsp;
