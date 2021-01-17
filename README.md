@@ -9,14 +9,14 @@
 <a href="https://github.com/betoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/github.svg" alt="Github: betoma" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/sparksbet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/facebook.svg" alt="Facebook: /sparksbet" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/Sparksbet" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/twitter.svg" alt="Twitter: @sparksbet" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/bethanyetoma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram: bethanyetoma" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/bethanyetoma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/instagram.svg" alt="Instagram: bethanyetoma" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.twitch.tv/sparksbet" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/twitch.svg" alt="Twitch: sparksbet" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://steamcommunity.com/id/sparksbet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/steam.svg" alt="Steam: sparksbet" height="40" width="40" /></a> &nbsp;&nbsp;
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/discord.svg" alt="Discord: sparksbet" height="40" width="40" /></a> &nbsp;&nbsp;-->
 <a href="https://open.spotify.com/user/21krnfigajmoh4z67biedhaii?si=zvCxIZo5RMOtpgbvC32onw" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/spotify.svg" alt="Spotify: Bethany E. Toma" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.goodreads.com/sparksbet" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/goodreads.svg" alt="Goodreads: sparksbet" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/betoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/linkedin.svg" alt="LinkedIn: Bethany Toma" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.xing.com/profile/BethanyElise_Toma/cv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg" alt="Xing: BethanyElise_Toma" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.xing.com/profile/BethanyElise_Toma/cv" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/xing-icon.svg" alt="Xing: BethanyElise_Toma" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
 I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus on the NLP side of things. My work in undergrad was mostly focused on formal semantics and pragmatics, so within NLP I'm passionate about linguistically-motivated approaches, particularly toward semantic parsing and related tasks. I'm a fairly experienced python programmer (including familiarity with numpy, pandas, nltk, spacy, pytorch, etc.) and am planning to begin work on my master's thesis this November.
@@ -47,8 +47,8 @@ I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus 
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betoma&exclude_repo=betoma&layout=compact&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betoma&exclude_repo=betoma&layout=compact&langs_count=6" height="175"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=betoma" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=betoma" height="175"/>
 </a>
