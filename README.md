@@ -20,7 +20,7 @@
 <a href="https://www.xing.com/profile/BethanyElise_Toma/cv" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/xing-icon.svg" alt="Xing: BethanyElise_Toma" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
-I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus on the NLP side of things. My work in undergrad was mostly focused on formal semantics and pragmatics, so within NLP I'm passionate about linguistically-motivated approaches, particularly toward semantic parsing and related tasks. I'm a fairly experienced python programmer (including familiarity with numpy, pandas, nltk, spacy, pytorch, etc.) and am planning to begin work on my master's thesis this November.
+I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus on the NLP side of things. My work in undergrad was mostly focused on formal semantics and pragmatics, so within NLP I'm passionate about linguistically-motivated approaches, particularly toward semantic parsing and related tasks. I'm a fairly experienced python programmer (including familiarity with numpy, pandas, nltk, spacy, pytorch, etc.) and I plan to present my master's thesis in the summer of 2021.
 
 <a href="https://natemoo-re-sable.vercel.app/now-playing?open">
     <img align='right' src="https://natemoo-re-sable.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
