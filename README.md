@@ -55,5 +55,5 @@ I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betoma&exclude_repo=betoma&layout=compact&langs_count=6&theme=omni" height="160"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=betoma&theme=omni" height="160"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=betoma&theme=omni" height="200"/>
 </a>
