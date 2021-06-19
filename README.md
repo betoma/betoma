@@ -20,14 +20,17 @@
 <a href="https://www.xing.com/profile/BethanyElise_Toma/cv" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/xing-icon.svg" alt="Xing: BethanyElise_Toma" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
-I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus on the NLP side of things. My work in undergrad was mostly focused on formal semantics and pragmatics, so within NLP I'm passionate about linguistically-motivated approaches, particularly toward semantic parsing and related tasks. I'm a fairly experienced python programmer (including familiarity with numpy, pandas, nltk, spacy, pytorch, etc.) and I plan to present my master's thesis in the summer of 2021.
+I'm currently writing my master's thesis in Cognitive Systems at the University of Potsdam. 
+My master's studies have been focused on computational linguistics and NLP, with an emphasis on using linguistically-motivated approaches, particularly those inspired by formal semantics and pragmatics. 
+Currently I also work as a data science engineer at Theta Lake, where I apply my knowledge of NLP in building and training our classifiers. 
+I'm an experienced python programmer and have good literacy with most common packages and frameworks for NLP and machine learning (nltk, spacy, pytorch, scikit-learn, etc). 
 
 <a href="https://natemoo-re-sable.vercel.app/now-playing?open">
     <img align='right' src="https://natemoo-re-sable.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
 😄 Pronouns: she/her<br>
-💬 Ask me about formal semantics, right dislocation, Gricean maxims, or game-theoretic pragmatics<br>
+💬 Ask me about formal semantics, right dislocation, game-theoretic pragmatics, or constructed languages<br>
 📫 How to reach me: email me or message me on one of my above social media<br>
 
 <!-- markdownlint-disable MD001 -->
