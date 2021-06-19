@@ -45,7 +45,7 @@ I'm a master's student at Uni Potsdam studying Cognitive Systems, with my focus 
 <img src="https://raw.githubusercontent.com/betoma/betoma/master/assets/jupyter.svg" alt="jupyter" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/betoma/betoma/master/assets/numpy-logo.svg" alt="numpy" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/betoma/betoma/master/assets/pandas.svg" alt="pandas" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/betoma/betoma/master/assets/pytorch.svg" alt="pytorch" width="80" height="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/betoma/betoma/master/assets/scikit-learn-logo.svg" alt="scikit-learn" width="80" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/betoma/betoma/master/assets/spacy_logo.svg" alt="spacy" width="80" height="40"/>&nbsp;&nbsp;
 <!--<code>--><img src="https://raw.githubusercontent.com/betoma/betoma/master/assets/r.svg" alt="r" width="40" height="40"/><!--</code>-->&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/betoma/betoma/master/assets/LaTeX_logo.svg" alt="latex" width="80"/>&nbsp;&nbsp;
