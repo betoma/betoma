@@ -58,5 +58,5 @@ I'm an experienced python programmer and have good literacy with most common pac
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betoma&exclude_repo=betoma&layout=compact&langs_count=6&theme=omni" height="160"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=betoma&theme=omni" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=betoma&layout=compact&theme=omni" height="160"/>
 </a>
