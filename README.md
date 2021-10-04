@@ -32,6 +32,7 @@ I'm an experienced python programmer and have good literacy with most common pac
 😄 Pronouns: she/her<br>
 💬 Ask me about formal semantics, right dislocation, game-theoretic pragmatics, or constructed languages<br>
 📫 How to reach me: email me or message me on one of my above social media<br>
+🖼 My avatar was a commission from the lovely <a href="https://twitter.com/BirbPlague">Plague Birb</a> (@BirbPlague on Twitter)<br>
 
 <!-- markdownlint-disable MD001 -->
 <!-- markdownlint-disable MD026 -->
