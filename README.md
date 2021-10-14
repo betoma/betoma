@@ -36,9 +36,9 @@ I'm an experienced python programmer and have good literacy with most common pac
 
 <!-- markdownlint-disable MD001 -->
 <!-- markdownlint-disable MD026 -->
-### 🔭 I’m currently working on:
+### 🔭 In my free time, I’m currently working on:
 
-- A fuzzy-logic-based implementation of quantifiers in a words-as-classifiers model for eventual use for visual question answering
+- A model to resolve definite references to objects in photos that combines a words-as-classifiers approach with the formal pragmatics of rational speech act theory
 - A discord bot for a server I moderate
 - Various [conlanging](https://conlang.org/) projects
 
