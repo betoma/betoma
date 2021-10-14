@@ -7,7 +7,7 @@
   BA in <a href="https://linguistics.osu.edu/">Linguistics</a> & <a href="https://deall.osu.edu/">Chinese</a> from <a href="https://www.osu.edu/">The Ohio State University</a>
 </em></p>
 <p align="left">
-<a href="https://github.com/betoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/github.svg" alt="Github: betoma" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://github.com/betoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/github.png" alt="Github: betoma" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/sparksbet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/facebook.svg" alt="Facebook: /sparksbet" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/Sparksbet" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/twitter.svg" alt="Twitter: @sparksbet" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/bethanyetoma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/instagram.svg" alt="Instagram: bethanyetoma" height="40" width="40" /></a> &nbsp;&nbsp;
