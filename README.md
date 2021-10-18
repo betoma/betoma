@@ -36,9 +36,9 @@ I'm an experienced python programmer and have good literacy with most common pac
 
 <!-- markdownlint-disable MD001 -->
 <!-- markdownlint-disable MD026 -->
-### 🔭 In my free time, I’m currently working on:
+### 🔭 I’m currently working on:
 
-- A model to resolve definite references to objects in photos that combines a words-as-classifiers approach with the formal pragmatics of rational speech act theory
+- A model to resolve definite references to objects in photos that combines a words-as-classifiers approach with the formal pragmatics of rational speech act theory (aka, the master's thesis)
 - A discord bot for a server I moderate
 - Various [conlanging](https://conlang.org/) projects
 
