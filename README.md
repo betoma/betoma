@@ -20,23 +20,24 @@
 <a href="https://www.xing.com/profile/BethanyElise_Toma/cv" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/xing-icon.svg" alt="Xing: BethanyElise_Toma" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
-I'm currently writing my master's thesis in Cognitive Systems at the University of Potsdam. 
-My master's studies have been focused on computational linguistics and NLP, with an emphasis on using linguistically-motivated approaches, particularly those inspired by formal semantics and pragmatics. 
-Currently I also work as a data science engineer at Theta Lake, where I apply my knowledge of NLP in building and training our classifiers. 
-I'm an experienced python programmer and have good literacy with most common packages and frameworks for NLP and machine learning (nltk, spacy, pytorch, scikit-learn, etc). 
+Currently I work as a data science engineer at Theta Lake, where I apply my knowledge of NLP in building and training our classifiers. 
+I'm an experienced python programmer and have good literacy with most common packages and frameworks for NLP and machine learning (nltk, spacy, pytorch, scikit-learn, etc). I'm of the opinion that gathering and curating a good dataset is 90% of the work when it comes to machine learning, especially in NLP. It's not as glamorous as coming up with cool new architectures, but it's far more important in the grand scheme of things.
 
-😄 Pronouns: she/her or they/them<br>
-💬 Ask me about formal semantics, right dislocation, game-theoretic pragmatics, or constructed languages<br>
-📫 How to reach me: email me or message me on one of my above social media<br>
-🖼 My avatar was a commission from the lovely <a href="https://twitter.com/BirbPlague">Plague Birb</a> (@BirbPlague on Twitter)<br>
+I wrote my master's thesis (to be defended later this year) on an approach to interpreting references to objects in pictures using a vocabulary of image region classifiers and rational speech act theory. While implementing this approach turned out to be more difficult than expected, I learned a ton from where I went wrong about the most difficult aspects of implementing such an approach and what I could do better if I started again. Feel free to ask me about it!
+
+I'm also hugely into conlanging -- the art of inventing new languages. Different people who make conlangs (short for "constructed languages") do it for different reasons. For me personally, it's solely for fun. No one has to use or even care about the languages I create for me to derive enjoyment from the act of putting together little intricate linguistic systems. That said, if you *do* care about the languages I create, please ask! I could go on about conlanging for hours, and many of my closest friends (including my spouse) are people I met through the conlanging community.
+
+😄 Pronouns: they/them<br>
+💬 Ask me about formal semantics, right dislocation, rational speech act theory, or constructed languages<br>
+🖼 Avatar commissioned from <a href="https://twitter.com/BirbPlague">Plague Birb</a> (@BirbPlague on Twitter)<br>
 
 <!-- markdownlint-disable MD001 -->
 <!-- markdownlint-disable MD026 -->
-### 🔭 I’m currently working on:
+<!--- ### 🔭 I’m currently working on:
 
 - A model to resolve definite references to objects in photos that combines a words-as-classifiers approach with the formal pragmatics of rational speech act theory (aka, the master's thesis)
 - A discord bot for a server I moderate
-- Various [conlanging](https://conlang.org/) projects
+- Various [conlanging](https://conlang.org/) projects--->
 
 ### Languages & Frameworks:
 
