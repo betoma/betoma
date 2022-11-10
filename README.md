@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/jt8mEC6Kffbwbv2tNH/giphy.gif" width="230">
 <p><em>
   Data Scientist at <a href="https://thetalake.com/"><img align="top" src="https://thetalake.com/wp-content/uploads/2018/07/thetalake-logo.svg" alt="Theta Lake" height=25 /></a></br>
-  M.Sc Student in <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems</a> at the <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a></br>
+  M.Sc in <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems</a> from the <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a></br>
   BA in <a href="https://linguistics.osu.edu/">Linguistics</a> & <a href="https://deall.osu.edu/">Chinese</a> from <a href="https://www.osu.edu/">The Ohio State University</a>
 </em></p>
 <p align="left">
@@ -20,10 +20,12 @@
 <a href="https://www.xing.com/profile/BethanyElise_Toma/cv" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/xing-icon.svg" alt="Xing: BethanyElise_Toma" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
-Currently I work as a data science engineer at Theta Lake, where I apply my knowledge of NLP in building and training our classifiers. 
+Currently I work as a data scientist at Theta Lake, where I apply my knowledge of NLP in building and training our classifiers. 
 I'm an experienced python programmer and have good literacy with most common packages and frameworks for NLP and machine learning (nltk, spacy, pytorch, scikit-learn, etc). I'm of the opinion that gathering and curating a good dataset is 90% of the work when it comes to machine learning, especially in NLP. It's not as glamorous as coming up with cool new architectures, but it's far more important in the grand scheme of things.
 
-I wrote my master's thesis (to be defended later this year) on an approach to interpreting references to objects in pictures using a vocabulary of image region classifiers and rational speech act theory. While implementing this approach turned out to be more difficult than expected, I learned a ton from where I went wrong about the most difficult aspects of implementing such an approach and what I could do better if I started again. Feel free to ask me about it!
+I wrote my master's thesis on an approach to interpreting references to objects in pictures using a vocabulary of image region classifiers and rational speech act theory. While I enjoy the technical side of things in NLP, my true passion is for theoretical linguistics, particularly semantics and pragmatics. One of the best parts of my master's thesis was that it gave me the opportunity to approach the problem from such a perspective and in the process become more familiar with rational speech act theory, a super interesting formal approach to pragmatics that has intrigued me since undergrad. Feel free to ask me about it! 
+
+I also love talking about interesting little phrases and ways of speaking in languages throughout the world. For instance, my bachelor's thesis was inspired by friends from the UK who often ended their sentences with "that." It's the little details like that which end up having surprising linguistic depth, and that's exactly the sort of thing that fascinates me.
 
 I'm also hugely into conlanging -- the art of inventing new languages. Different people who make conlangs (short for "constructed languages") do it for different reasons. For me personally, it's solely for fun. No one has to use or even care about the languages I create for me to derive enjoyment from the act of putting together little intricate linguistic systems. That said, if you *do* care about the languages I create, please ask! I could go on about conlanging for hours, and many of my closest friends (including my spouse) are people I met through the conlanging community.
 
