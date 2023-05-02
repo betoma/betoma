@@ -57,6 +57,6 @@ I'm also hugely into conlanging -- the art of inventing new languages. Different
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betoma&exclude_repo=betoma&layout=compact&langs_count=6&theme=omni" height="140"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!---<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=betoma&layout=compact&theme=omni" height="140"/>
-</a>
+</a>---!>
