@@ -2,7 +2,6 @@
 
 <img align='right' src="https://media.giphy.com/media/jt8mEC6Kffbwbv2tNH/giphy.gif" width="230">
 <p><em>
-  Data Scientist at <a href="https://thetalake.com/"><img align="top" src="https://thetalake.com/wp-content/uploads/2018/07/thetalake-logo.svg" alt="Theta Lake" height=25 /></a></br>
   M.Sc in <a href="https://www.ling.uni-potsdam.de/cogsys/">Cognitive Systems</a> from the <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a></br>
   BA in <a href="https://linguistics.osu.edu/">Linguistics</a> & <a href="https://deall.osu.edu/">Chinese</a> from <a href="https://www.osu.edu/">The Ohio State University</a>
 </em></p>
@@ -20,8 +19,7 @@
 <a href="https://www.xing.com/profile/BethanyElise_Toma/cv" target="blank"><img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/xing-icon.svg" alt="Xing: BethanyElise_Toma" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
-Currently I work as a data scientist at Theta Lake, where I apply my knowledge of NLP in building and training our classifiers. 
-I'm an experienced python programmer and have good literacy with most common packages and frameworks for NLP and machine learning (nltk, spacy, pytorch, scikit-learn, etc). I'm of the opinion that gathering and curating a good dataset is 90% of the work when it comes to machine learning, especially in NLP. It's not as glamorous as coming up with cool new architectures, but it's far more important in the grand scheme of things.
+I'm an experienced python programmer and have good literacy with the common packages and frameworks for NLP and machine learning (nltk, spacy, pytorch, scikit-learn, etc). I'm of the opinion that gathering and curating a good dataset is 90% of the work when it comes to machine learning, especially in NLP. It's not as glamorous as coming up with cool new architectures, but it's far more important in the grand scheme of things.
 
 I wrote my master's thesis on an approach to interpreting references to objects in pictures using a vocabulary of image region classifiers and rational speech act theory. While I enjoy the technical side of things in NLP, my true passion is for theoretical linguistics, particularly semantics and pragmatics. One of the best parts of my master's thesis was that it gave me the opportunity to approach the problem from such a perspective and in the process become more familiar with rational speech act theory, a super interesting formal approach to pragmatics that has intrigued me since undergrad. Feel free to ask me about it! 
 
